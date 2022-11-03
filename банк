@@ -12,4 +12,4 @@ deposit.append(c)
 x, y, z, c ='ТБК', 'СКБ', 'ВТБ', 'СБЕР'
 print(deposit)
 deposit.sort(reverse = True)
-print("Максимальная сумма, которую вы можете заработать — ", deposit[0]), "в банке ", (max(deposit))
+print("Максимальная сумма, которую вы можете заработать — ", deposit[0])
